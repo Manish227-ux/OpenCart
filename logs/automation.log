@@ -1,0 +1,303 @@
+00:26:36.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+00:26:36.307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\master.xml
+
+00:26:45.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:45.810 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:45.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.226 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:26:46.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:26:46.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:26:46.324 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:26:46.404 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+00:26:46.638 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+00:26:46.707 [main] INFO  testCases.TC_Login_DDT - Entered Email
+00:26:46.748 [main] INFO  testCases.TC_Login_DDT - Entered Password
+00:26:46.799 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+00:26:57.542 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:26:57.589 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+00:26:57.813 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+00:26:57.861 [main] INFO  testCases.TC_Login_DDT - Entered Email
+00:26:57.896 [main] INFO  testCases.TC_Login_DDT - Entered Password
+00:26:57.931 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+00:27:08.670 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:27:08.711 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+00:27:08.920 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+00:27:08.976 [main] INFO  testCases.TC_Login_DDT - Entered Email
+00:27:09.027 [main] INFO  testCases.TC_Login_DDT - Entered Password
+00:27:09.084 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+00:27:19.717 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:27:19.762 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+00:27:19.972 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+00:27:20.028 [main] INFO  testCases.TC_Login_DDT - Entered Email
+00:27:20.067 [main] INFO  testCases.TC_Login_DDT - Entered Password
+00:27:20.105 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+00:28:30.363 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+00:28:30.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\master.xml
+
+00:28:36.069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.071 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.384 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.384 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:28:36.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:28:36.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:28:36.511 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:28:36.585 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+00:28:36.825 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+00:28:36.887 [main] INFO  testCases.TC_Login_DDT - Entered Email
+00:28:36.929 [main] INFO  testCases.TC_Login_DDT - Entered Password
+00:28:37.809 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+00:28:40.600 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:28:40.606 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:28:40.620 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+00:30:54.982 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml"
+00:30:55.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml
+
+00:31:01.049 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:31:01.536 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:31:02.189 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register
+00:31:02.191 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Entering values in Registration Page
+00:31:03.809 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Finished Test TC_AccountRegistrationTest
+00:33:29.374 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml"
+00:33:29.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml
+
+00:33:34.307 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:33:34.821 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:33:35.335 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register
+00:33:35.337 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Entering values in Registration Page
+00:33:36.025 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Finished Test TC_AccountRegistrationTest
+00:34:33.672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml"
+00:34:33.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml
+
+00:34:36.848 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:34:36.955 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:34:37.360 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register
+00:34:37.362 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Entering values in Registration Page
+00:34:37.926 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Finished Test TC_AccountRegistrationTest
+00:35:13.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml"
+00:35:13.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml
+
+00:35:16.559 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:35:16.652 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:35:16.981 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register
+00:35:16.981 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Entering values in Registration Page
+00:35:18.020 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Finished Test TC_AccountRegistrationTest
+00:38:21.221 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml"
+00:38:21.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\paralleltesting.xml
+
+00:38:26.013 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:38:26.013 [TestNG-tests-3] INFO  testCases.TC_AccountRegistrationTest - Started Test TC_AccountRegistrationTest
+00:38:26.111 [TestNG-tests-3] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:38:26.128 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - Clicked on My Account
+00:38:36.195 [TestNG-tests-3] ERROR testCases.TC_AccountRegistrationTest - Test Failed
+00:38:36.195 [TestNG-tests-3] DEBUG testCases.TC_AccountRegistrationTest - Debug Logs
+00:38:46.234 [TestNG-tests-1] ERROR testCases.TC_AccountRegistrationTest - Test Failed
+00:38:46.234 [TestNG-tests-1] DEBUG testCases.TC_AccountRegistrationTest - Debug Logs
+02:46:40.134 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\grid_docker_testing.xml"
+02:46:40.509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\grid_docker_testing.xml
+
+02:46:44.765 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+02:46:44.892 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+02:46:45.360 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+02:46:45.456 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+02:46:45.522 [main] INFO  testCases.TC_LoginTest - Entered Password
+02:46:46.308 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+02:46:49.367 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+02:46:49.367 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+02:46:53.220 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+02:46:53.325 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+02:46:53.572 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+02:46:53.638 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+02:46:53.669 [main] INFO  testCases.TC_LoginTest - Entered Password
+02:46:54.368 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+02:46:57.406 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+02:46:57.406 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+03:00:16.114 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\src\test\resources\docker-compose.yaml"
+03:05:06.281 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\grid_docker_testing.xml"
+03:05:06.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manis\eclipse-workspace\OpenCart\grid_docker_testing.xml
+
+03:05:10.453 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+03:05:10.579 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+03:05:10.843 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+03:05:10.952 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+03:05:11.029 [main] INFO  testCases.TC_LoginTest - Entered Password
+03:05:11.121 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+03:05:14.177 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+03:05:14.177 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+03:05:17.929 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+03:05:18.029 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+03:05:18.256 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+03:05:18.315 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+03:05:18.342 [main] INFO  testCases.TC_LoginTest - Entered Password
+03:05:19.028 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+03:05:22.073 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+03:05:22.073 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+03:27:50.699 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+03:27:55.769 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:55.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:55.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.275 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.286 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.286 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:27:56.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:27:56.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:27:56.340 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:30.675 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+03:28:34.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:28:34.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:28:34.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:28:34.772 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+03:28:34.866 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+03:28:35.104 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+03:28:35.166 [main] INFO  testCases.TC_Login_DDT - Entered Email
+03:28:35.205 [main] INFO  testCases.TC_Login_DDT - Entered Password
+03:28:35.253 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+03:28:45.914 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+03:28:45.957 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+03:28:46.165 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+03:28:46.214 [main] INFO  testCases.TC_Login_DDT - Entered Email
+03:28:46.261 [main] INFO  testCases.TC_Login_DDT - Entered Password
+03:28:46.314 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+03:28:56.449 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+03:28:56.494 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+03:28:56.681 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+03:28:56.725 [main] INFO  testCases.TC_Login_DDT - Entered Email
+03:28:56.763 [main] INFO  testCases.TC_Login_DDT - Entered Password
+03:28:56.811 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+03:29:06.907 [main] INFO  testCases.TC_Login_DDT - Started Test TC_LoginDataDrivenTest
+03:29:06.949 [main] INFO  testCases.TC_Login_DDT - Clicked on My Account
+03:29:07.141 [main] INFO  testCases.TC_Login_DDT - Clicked on Login
+03:29:07.190 [main] INFO  testCases.TC_Login_DDT - Entered Email
+03:29:07.229 [main] INFO  testCases.TC_Login_DDT - Entered Password
+03:29:07.276 [main] INFO  testCases.TC_Login_DDT - Clicked on Login Button
+03:29:50.302 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+03:29:53.496 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+03:29:53.638 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+03:29:53.882 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+03:29:53.942 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+03:29:53.983 [main] INFO  testCases.TC_LoginTest - Entered Password
+03:29:54.031 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+03:29:57.050 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+03:29:57.050 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+15:11:33.524 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+15:11:38.630 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+15:11:38.913 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+15:11:39.179 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+15:11:39.248 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+15:11:39.292 [main] INFO  testCases.TC_LoginTest - Entered Password
+15:11:39.374 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+15:11:42.409 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+15:11:42.409 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest
+15:26:05.542 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manis\eclipse-workspace\OpenCart\master.xml"
+15:26:09.212 [main] INFO  testCases.TC_LoginTest - Started Test TC_LoginTest
+15:26:09.434 [main] INFO  testCases.TC_LoginTest - Clicked on My Account
+15:26:09.842 [main] INFO  testCases.TC_LoginTest - Clicked on Login
+15:26:09.934 [main] INFO  testCases.TC_LoginTest - bwayne@gmail.com
+15:26:09.976 [main] INFO  testCases.TC_LoginTest - Entered Password
+15:26:10.026 [main] INFO  testCases.TC_LoginTest - Clicked on Login Button
+15:26:13.053 [main] INFO  testCases.TC_LoginTest - Verified Login Screen Text
+15:26:13.053 [main] INFO  testCases.TC_LoginTest - Finished Test TC_LoginTest

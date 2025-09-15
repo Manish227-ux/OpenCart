@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T03:05:06 IST" name="Suite" finished-at="2025-09-15T03:05:22 IST" duration-ms="16236">
+    <groups>
+      <group name="Master">
+        <method signature="TC_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_LoginTest@5b11a194]" name="verifyLogin" class="testCases.TC_LoginTest"/>
+        <method signature="TC_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_LoginTest@3e34ace1]" name="verifyLogin" class="testCases.TC_LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_LoginTest@5b11a194]" name="verifyLogin" class="testCases.TC_LoginTest"/>
+        <method signature="TC_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_LoginTest@3e34ace1]" name="verifyLogin" class="testCases.TC_LoginTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-09-15T03:05:06 IST" name="Docker_Grid_Chrome_Test" finished-at="2025-09-15T03:05:14 IST" duration-ms="7750">
+      <class name="testCases.TC_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_LoginTest@5b11a194]" started-at="2025-09-15T03:05:06 IST" name="setUp" finished-at="2025-09-15T03:05:10 IST" duration-ms="3721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC_LoginTest@5b11a194]" started-at="2025-09-15T03:05:10 IST" name="verifyLogin" finished-at="2025-09-15T03:05:14 IST" duration-ms="3731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_LoginTest@5b11a194]" started-at="2025-09-15T03:05:14 IST" name="tearDown" finished-at="2025-09-15T03:05:14 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_LoginTest -->
+    </test> <!-- Docker_Grid_Chrome_Test -->
+    <test started-at="2025-09-15T03:05:14 IST" name="Docker_Grid_Firefox_Test" finished-at="2025-09-15T03:05:22 IST" duration-ms="8185">
+      <class name="testCases.TC_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_LoginTest@3e34ace1]" started-at="2025-09-15T03:05:14 IST" name="setUp" finished-at="2025-09-15T03:05:17 IST" duration-ms="3341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC_LoginTest@3e34ace1]" started-at="2025-09-15T03:05:17 IST" name="verifyLogin" finished-at="2025-09-15T03:05:22 IST" duration-ms="4145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_LoginTest@3e34ace1]" started-at="2025-09-15T03:05:22 IST" name="tearDown" finished-at="2025-09-15T03:05:22 IST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_LoginTest -->
+    </test> <!-- Docker_Grid_Firefox_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
